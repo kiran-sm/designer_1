@@ -33,7 +33,7 @@ body {
   box-shadow: 0px 5px 7px #0000001a;
   height: 7rem;
   position: fixed;
-    width: 100%;
+    width: 101%;
     top: 0;
     z-index: 1;
 }
@@ -58,9 +58,6 @@ body {
 .nav-link {
   padding-bottom: 0;
 }
-/* .nav-link.active {
-  border-bottom: 2px solid red;
-} */
 
 .about-me h2, .projects h2, .certificates h2, .resume h2, .get-in-touch h2{
     font-family: font-family: "Roboto", sans-serif;
