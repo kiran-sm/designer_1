@@ -246,6 +246,13 @@ body {
 }
 
 .profile-img {
-  border: 1px solid #2b2b2b23;
+  /* border: 1px solid #2b2b2b23; */
   border-radius: 50%;
+  box-shadow: 0px 5px 7px #00000026;
+}
+
+@media screen and (min-device-width: 768px) and (max-device-width: 992px) {
+  .profile-img {
+    width: 100%;
+  }
 }
