@@ -260,12 +260,12 @@ body {
 .border-mark,
 .border-mark2 {
   border: 1px solid #2b2b2b2d;
-  background-color: rgba(240, 162, 162, 0.164);
+  background-color: rgba(248, 192, 192, 0.164);
   border-radius: 20px;
   margin: 2rem 0;
 }
 .border-mark2 {
-  background: rgba(185, 185, 245, 0.123);
+  background: rgba(197, 197, 248, 0.123);
 }
 .br-rad {
   border-radius: 20px;
