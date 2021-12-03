@@ -16,6 +16,10 @@ html {
   font-size: 62.5%;
 }
 
+::selection {
+  display: none;
+}
+
 body {
   text-rendering: optimizeLegibility;
   overflow-x: hidden !important;
@@ -114,6 +118,7 @@ body {
   background-color: #2b2b2b75;
   margin: 5px;
   border-radius: 50%;
+  /* display: none; */
 }
 .carousel-indicators {
   margin-bottom: -5rem;
